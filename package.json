@@ -7,6 +7,9 @@
   "author": "Jerald Baroro",
   "license": "MIT",
   "dependencies": {
-    "solc": "^0.8.28"
+    "ganache": "^7.9.2",
+    "mocha": "^10.7.3",
+    "solc": "^0.8.28",
+    "web3": "^4.14.0"
   }
 }
