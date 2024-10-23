@@ -1,0 +1,22 @@
+{
+  "name": "inbox",
+  "version": "1.0.0",
+  "description": "First contract named Inbox with Solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jerald-devOfficial@github.com/jerald-devOfficial/solidity-inbox.git"
+  },
+  "author": "Jerald Baroro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerald-devOfficial/solidity-inbox/issues"
+  },
+  "homepage": "https://github.com/jerald-devOfficial/solidity-inbox#readme",
+  "dependencies": {
+    "solc": "^0.4.17"
+  }
+}
