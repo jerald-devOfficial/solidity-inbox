@@ -4,6 +4,9 @@
   "description": "First contract Inbox with Solidity - latest",
   "main": "index.js",
   "repository": "https://jerald-devOfficial@github.com/jerald-devOfficial/solidity-inbox.git",
+  "scripts": {
+    "test": "mocha"
+  },
   "author": "Jerald Baroro",
   "license": "MIT",
   "dependencies": {
