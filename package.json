@@ -1,0 +1,12 @@
+{
+  "name": "inbox-latest",
+  "version": "1.0.0",
+  "description": "First contract Inbox with Solidity - latest",
+  "main": "index.js",
+  "repository": "https://jerald-devOfficial@github.com/jerald-devOfficial/solidity-inbox.git",
+  "author": "Jerald Baroro",
+  "license": "MIT",
+  "dependencies": {
+    "solc": "^0.8.28"
+  }
+}
