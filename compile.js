@@ -20,4 +20,6 @@ const input = {
 };
 
 const output = JSON.parse(solc.compile(JSON.stringify(input)));
-console.log(output);
+
+// Log the entire output object with full depth
+console.dir(output, { depth: null });
