@@ -21,5 +21,5 @@ const input = {
 
 const output = JSON.parse(solc.compile(JSON.stringify(input)));
 
-// Log the entire output object with full depth
-console.dir(output, { depth: null });
+// Export the compiled contract
+module.exports = output.contracts["Inbox.sol"].Inbox;
