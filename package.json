@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jerald-devOfficial/solidity-inbox#readme",
   "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.15",
     "ganache": "^7.9.2",
     "mocha": "^10.7.3",
     "solc": "^0.4.17",
